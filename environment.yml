@@ -1,0 +1,15 @@
+name: arctic-cveg-figure
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.10
+  - xarray
+  - numpy
+  - matplotlib
+  - cartopy
+  - cftime
+  - dask
+  - pip
+  - pip:
+    - xmip
