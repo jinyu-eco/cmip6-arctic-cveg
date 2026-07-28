@@ -14,7 +14,7 @@ Environment Setup
 To run this workflow, please set up the environment via Conda:
 ```bash
 conda env create -f environment.yml
-conda activate tipping-analysis
+conda activate tipping-analysis```
 
 Data Availability
 Due to GitHub file size limits, input data (*.nc) is not tracked in this repository.
