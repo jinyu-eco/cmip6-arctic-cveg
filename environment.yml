@@ -13,4 +13,5 @@ dependencies:
   - xmip
   - ipykernel
   - netcdf4
+  - nc-time-axis
 
