@@ -14,7 +14,7 @@ A Python-based workflow for preprocessing, spatial aggregation, and visualizatio
 To run this workflow, please set up the environment via Conda:
 ```bash
 conda env create -f environment.yml
-conda activate tipping-analysis
+conda activate arctic-cveg-figure
 ```
 
 ## Data Availability
