@@ -10,6 +10,6 @@ dependencies:
   - cartopy
   - cftime
   - dask
-  - pip
-  - pip:
-    - xmip
+  - xmip
+  - ipykernel
+
